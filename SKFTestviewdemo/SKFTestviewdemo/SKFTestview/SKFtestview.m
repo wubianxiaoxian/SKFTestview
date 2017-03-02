@@ -22,7 +22,7 @@
     self = [super initWithFrame:frame];
     if (self) {
         self.SKFtestImageview=[[UIImageView alloc]initWithFrame:self.frame];
-        self.SKFtestImageview.image=[UIImage imageNamed:@"SKFtest.bundle/bund.jpg"];
+        self.SKFtestImageview.image=[UIImage imageNamed:@"SKFtest.bundle/bubu.jpg"];
         [self addSubview:self.SKFtestImageview];
         
     }
